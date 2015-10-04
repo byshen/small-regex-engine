@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1443910128 source:g:\code\regularexpression\main.cpp
+	<iostream>
+	"Regex.h"
+	"stack.h"
+	"linkTable.h"
+	<cstring>
+
+1443919946 g:\code\regularexpression\regex.h
+	<iostream>
+	<cstring>
+	<string>
+	<algorithm>
+	"stack.h"
+	"linkTable.h"
+
+1443865016 g:\code\regularexpression\stack.h
+
+1443920455 g:\code\regularexpression\linktable.h
+	<iostream>
+
